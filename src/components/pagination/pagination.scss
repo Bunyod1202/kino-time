@@ -1,0 +1,42 @@
+.page-right {
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px
+}
+.page-left {
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px
+}
+.page-links{
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  
+}
+.page-items{
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+  border-radius: 50%;
+
+}
+.active {
+  color: #fff;
+  background-color: #2196F3;
+  .page-links {
+    color: #fff;
+  }
+    
+}
+.break {
+  display: none;
+}

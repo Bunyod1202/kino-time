@@ -1,0 +1,32 @@
+.movie-id-section {
+  height: 80vh;
+  width: 100%;
+  background-size: cover;
+  backdrop-filter: blur(10px);
+}
+.movie-id-section-inner{ 
+  display: flex;
+  align-items: center;
+  
+  background-image: linear-gradient(to right, rgba(10.5, 31.5, 31.5, 1) calc((50vw - 170px) - 340px), rgba(10.5, 31.5, 31.5, 0.84) 30%, rgba(10.5, 31.5, 31.5, 0.84) 100%) ;
+  height: 80vh;
+}
+.movie-id-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #fff;
+}
+.movie-id {
+display: flex;
+align-items: center;
+}
+.movie-id-content {
+  margin-left: 50px;
+}
+.movie-id-text {
+  color: #fff;
+}
+.movie-id-date {
+  color: #fff;
+
+}

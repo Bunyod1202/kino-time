@@ -1,0 +1,23 @@
+.body {
+  margin: 0;
+  padding: 0;
+  font-family: "Arial" sans-serif;
+}
+button {
+  cursor: pointer;
+}
+a {
+  text-decoration: none;
+  display: block;
+}
+ul,ol {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+
+}
+.container {
+  max-width: 1340px;
+  margin: 0 auto;
+  padding: 0 20px;
+}

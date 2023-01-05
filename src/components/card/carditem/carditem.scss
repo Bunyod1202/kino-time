@@ -1,0 +1,27 @@
+.card {
+  width: 250px;
+  position: relative;
+}
+.card-badge{ padding: 10px 15px;
+  border-radius: 0 0 0 10px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.559);
+  color: #fff;
+}
+.card-title {
+  font-size: 30px;
+  font-weight: bold;
+  margin: 0;
+
+}
+.card-text {
+
+  font-weight: 700;
+  font-size: 20.24px;
+  line-height: 20px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
