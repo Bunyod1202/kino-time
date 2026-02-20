@@ -1,7 +1,7 @@
 import axios from "axios"
 
 const BASE_URL = "https://api.themoviedb.org/3"
-const API_KEY = "d2b31519940c66a2ca1b4d18163cef94"
+const API_KEY = "d3fa18a6b9545ae8395f143821a8d672"
 export const API_IMG_URL = "https://image.tmdb.org/t/p/w500"
 
 
